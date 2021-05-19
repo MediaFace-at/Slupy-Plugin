@@ -1,10 +1,12 @@
 <?php
 /*
 Plugin Name: Slupy Plugin
+Plugin URI: https://github.com/MediaFace-at/Slupy-Plugin
 Description: Plugin für Girl Verwaltung
 Author: Slupy Team
-Version: 1.0.1
-
+Version: 1.0.1 
+Github Plugin URI: https://github.com/MediaFace-at/Slupy-Plugin
+*
 /* Verbiete den direkten Zugriff auf die Plugin-Datei */
 if ( ! defined( 'ABSPATH' ) ) exit;
 /* Nach dieser Zeile den Code einfügen*/
