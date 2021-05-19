@@ -1,0 +1,17 @@
+.admin-thumbnail{
+    display: inline-block;
+}
+.admin-thumbnail > img{
+    height: 200px;
+    width: auto;
+}
+.admin-title{
+    display: inline-block;
+}
+.admin-content{
+    display: inline-block;
+}
+#admin-container{
+    display: table;
+    width: 100%;
+}
