@@ -233,10 +233,9 @@ function get_girls($atts){
 						<div class="girls_container shine">
 							<?php if(get_the_date('Y-m-d-H-i-s') > date("Y-m-d-H-i-s",strtotime("-14 day"))) : ?>
 								<div class="new">
-									<p class="new-inner">fasgddrgvdr</p>
+									<p class="new-inner">NEU</p>
 								</div>
 							<?php endif; ?>
-							<p class="new-inner">fasgddrgvdr</p>
 
 							<div class="girls_poster">
 								<?php echo get_the_post_thumbnail(); ?>
